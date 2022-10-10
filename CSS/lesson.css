@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(220, 215, 247);
+    text-align: center;
+}
+main{
+    background-color: rgb(137, 151, 241);
+    margin: 120px 284px 60px 284px;
+    padding: 12px;
+    border: 4px solid black;
+   
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: -114px;
+}
+h1{
+    font-size: 52px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 12px 8px;
+}
+p{
+    color: rgb(122,19,29);
+    font-size: 20px;
+}
+footer p{
+    background-color: rgb(160, 186, 243);
+    padding: 12px 8px;
+    margin: 20px 584px;
+    border-radius: 8px;
+    
+}
+ a:hover{
+    color:rgb(191, 217, 41);
+  
+  
+}
